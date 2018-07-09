@@ -1,1 +1,7 @@
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+
 msg: this is test config
